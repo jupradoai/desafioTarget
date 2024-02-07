@@ -1,5 +1,5 @@
 # desafioTarget
-Resolução do desafio de lógica de programação Target
+Resolução do desafio de lógica Target
 
 Saídas:
 
